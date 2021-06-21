@@ -1,0 +1,23 @@
+File processed:                                   pe-trajectories.dat
+Date of processing:                               Mon Jun 21 02:21:41 2021
+
+
+
+Sum of all particles:                             6
+Sum of backscattered particles:                   2
+Sum of transmitted particles:                     0
+Sum of absorbed particles:                        4
+
+highest energy of a backscattered electron:       4728.39 eV
+
+Amount of bins for the angle phi [-PI;PI]:        60
+Amount of bins for the angle theta [0;PI]:        45
+
+Tilt-angle:                                       -75 °
+
+(backscattered particles)/(Incident particles):   0.333333
+  (transmitted particles)/(Incident particles):   0
+     (absorbed particles)/(Incident particles):   0.666667
+
+
+(backscattered energy)/(incident energy * sum of all particles): 0.2658
